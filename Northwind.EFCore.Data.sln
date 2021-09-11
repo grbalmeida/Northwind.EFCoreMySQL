@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.EFCore.Data", "Northwind.EFCore.Data\Northwind.EFCore.Data.csproj", "{21393BF1-76C1-412C-B8C1-339092763CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.EFCore.Models", "Northwind.EFCore.Models\Northwind.EFCore.Models.csproj", "{141F8F6B-93C9-4F81-8F1D-176E8BA4A076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21393BF1-76C1-412C-B8C1-339092763CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21393BF1-76C1-412C-B8C1-339092763CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21393BF1-76C1-412C-B8C1-339092763CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21393BF1-76C1-412C-B8C1-339092763CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141F8F6B-93C9-4F81-8F1D-176E8BA4A076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141F8F6B-93C9-4F81-8F1D-176E8BA4A076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141F8F6B-93C9-4F81-8F1D-176E8BA4A076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141F8F6B-93C9-4F81-8F1D-176E8BA4A076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D97B55-A00A-4B94-8264-D68B69AAE65F}
+	EndGlobalSection
+EndGlobal
